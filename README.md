@@ -38,21 +38,10 @@ Concepts      → Networking / Processes / Permissions / Containers
 ### `> focus`
 
 ```text id="gr5v5d"
-Offensive Security
 Security Research
 Linux / Unix Security
 Privilege Escalation
 Post-Exploitation
-```
-
----
-
-### `> interests`
-
-```text id="0y7h5p"
-Low-level systems
-Security boundaries
-Automation
 Backend architecture
 Game server development
 ```
@@ -61,12 +50,4 @@ Game server development
 
 ### `> currently`
 
-```text id="g0c7x2"
-learning → researching → building → breaking → understanding
-```
-
-<p align="center">
-
-`< build things. understand systems. find weaknesses. >`
-
-</p>
+`learning` → `researching` → `building` → `breaking` → `understanding`
