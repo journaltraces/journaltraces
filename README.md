@@ -2,66 +2,71 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Security+%26+Systems;Offensive+Security;Security+Tooling;Backend+%26+Automation;Discord+Bots+%7C+FiveM+%7C+CS2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Security+%26+Systems;Offensive+Security;Backend+Development" />
 
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,go,typescript,javascript,linux,docker,git,github&perline=12" />
+<img src="https://skillicons.dev/icons?i=c,cpp,go,python,typescript,javascript,bash,powershell,linux,docker,git&perline=11" />
 </p>
 
 ---
 
 ### `> whoami`
 
-Security-focused developer working across **systems, backend development, automation and game-server tooling**.
+Romanian developer with 2 years experience, working across **systems, backend development and security tooling**.
 
-Currently going deeper into:
+Currently moving deeper into **Offensive Security / Security Research**, with a focus on how software, operating systems and security boundaries actually work.
 
-`Offensive Security` · `Linux/Unix` · `Privilege Escalation` · `Post-Exploitation` · `Security Tooling`
-
-I also build and develop **Discord bots, FiveM servers and CS2 projects**, combining different languages, APIs and systems depending on the project.
+Looking for every opportunity to improve myself as a **developer**.
 
 ---
 
 ### `> stack`
 
-**Security & Systems**
-`C` · `C++` · `Python` · `Bash` · `PowerShell` · `Linux`
-
-**Backend & Development**
-`Go` · `TypeScript` · `JavaScript` · `Node.js`
-
-**Game & Community Development**
-`Discord Bots` · `FiveM` · `CS2` · `Server Development` · `Game Tooling`
-
-**Tooling**
-`Docker` · `Git` · `GitHub` · `APIs` · `Automation`
+```text
+Languages     → C / C++ / Go / Python / TypeScript / JavaScript
+Systems       → Linux / Unix / Bash / PowerShell
+Backend       → Node.js / REST APIs / WebSockets / Services
+Tooling       → Git / Docker / CLI / Automation
+Security      → Offensive Security / Security Research / Post-Exploitation
+Concepts      → Networking / Processes / Permissions / Containers
+```
 
 ---
 
-### `> open_source`
+### `> focus`
 
-🔐 **GTFOBins** — Unix/Linux security research & contributions
-🛠️ **reverse-shell-generator** — security tooling
+```text id="gr5v5d"
+Offensive Security
+Security Research
+Linux / Unix Security
+Privilege Escalation
+Post-Exploitation
+```
 
 ---
 
 ### `> interests`
 
-```text
-Security      → PrivEsc / Post-Exploitation / Containers
-Systems       → Linux / Unix / C / Shell
-Backend       → Go / Node.js / TypeScript
-Automation    → Discord Bots / APIs / Tooling
-Game Dev      → FiveM / CS2 / Server Development
-Open Source   → Research / Bug Fixes / Contributions
+```text id="0y7h5p"
+Low-level systems
+Security boundaries
+Automation
+Backend architecture
+Game server development
 ```
 
 ---
 
+### `> currently`
+
+```text id="g0c7x2"
+learning → researching → building → breaking → understanding
+```
+
 <p align="center">
 
-`build → break → understand → improve`
+`< build things. understand systems. find weaknesses. >`
 
 </p>
