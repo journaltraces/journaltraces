@@ -14,7 +14,7 @@
 
 ### `> whoami`
 
-Romanian developer with 2 years experience, working across **systems, backend development and security tooling**.
+Romanian developer with 2 years of experience, working across **systems, backend development and security tooling**.
 
 Currently moving deeper into **Offensive Security / Security Research**, with a focus on how software, operating systems and security boundaries actually work.
 
