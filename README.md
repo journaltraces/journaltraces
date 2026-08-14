@@ -2,57 +2,66 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Security+%26+Systems;Offensive+Security;Security+Tooling;Open+Source" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Security+%26+Systems;Offensive+Security;Security+Tooling;Backend+%26+Automation;Discord+Bots+%7C+FiveM+%7C+CS2" />
 
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,linux,git,github,docker,javascript,typescript&perline=11" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,go,typescript,javascript,linux,docker,git,github&perline=12" />
 </p>
 
 ---
 
 ### `> whoami`
 
-Security-focused developer exploring **Offensive Security, Linux/Unix internals, security tooling and systems programming**.
+Security-focused developer working across **systems, backend development, automation and game-server tooling**.
 
 Currently going deeper into:
 
-`Privilege Escalation` · `Post-Exploitation` · `Unix Security` · `Container Security` · `Security Research`
+`Offensive Security` · `Linux/Unix` · `Privilege Escalation` · `Post-Exploitation` · `Security Tooling`
 
-I like understanding **why something works**, not just how to use it.
+I also build and develop **Discord bots, FiveM servers and CS2 projects**, combining different languages, APIs and systems depending on the project.
+
+---
+
+### `> stack`
+
+**Security & Systems**
+`C` · `C++` · `Python` · `Bash` · `PowerShell` · `Linux`
+
+**Backend & Development**
+`Go` · `TypeScript` · `JavaScript` · `Node.js`
+
+**Game & Community Development**
+`Discord Bots` · `FiveM` · `CS2` · `Server Development` · `Game Tooling`
+
+**Tooling**
+`Docker` · `Git` · `GitHub` · `APIs` · `Automation`
 
 ---
 
 ### `> open_source`
 
-🔐 **GTFOBins** — Unix/Linux security research and contributions
-🛠️ **reverse-shell-generator** — security tooling / developer tooling
-
-Currently working on issues involving **Unix security, execution contexts, privilege boundaries and security tooling**.
+🔐 **GTFOBins** — Unix/Linux security research & contributions
+🛠️ **reverse-shell-generator** — security tooling
 
 ---
 
 ### `> interests`
 
 ```text
-Systems      → Linux / Unix / C / Shell
-Security     → PrivEsc / Post-Exploitation / Containers
-Tooling      → CLI / Automation / Security Tools
-Open Source  → Research / Bug Fixes / Contributions
+Security      → PrivEsc / Post-Exploitation / Containers
+Systems       → Linux / Unix / C / Shell
+Backend       → Go / Node.js / TypeScript
+Automation    → Discord Bots / APIs / Tooling
+Game Dev      → FiveM / CS2 / Server Development
+Open Source   → Research / Bug Fixes / Contributions
 ```
-
----
-
-### `> projects`
-
-[![GTFOBins](https://img.shields.io/badge/GTFOBins-Contributor-black?style=flat-square\&logo=github)](https://github.com/GTFOBins/GTFOBins.github.io)
-[![reverse-shell-generator](https://img.shields.io/badge/reverse--shell--generator-Contributor-black?style=flat-square\&logo=github)](https://github.com/0dayCTF/reverse-shell-generator)
 
 ---
 
 <p align="center">
 
-`break → understand → improve`
+`build → break → understand → improve`
 
 </p>
