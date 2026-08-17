@@ -22,7 +22,7 @@ Looking for every opportunity to improve myself as a **developer**.
 
 ---
 
-### `> stack`
+### `> stack` 
 
 ```text 
 Languages     → C / C++ / Go / Python / TypeScript / JavaScript
