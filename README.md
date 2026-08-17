@@ -50,4 +50,4 @@ Game server development
 
 ### `> currently`
 
-`learning` → `researching` → `building` → `breaking` → `understanding`   
+`learning` → `researching` → `building` → `breaking` → `understanding`  
