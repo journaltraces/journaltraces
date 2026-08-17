@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,go,python,typescript,javascript,bash,powershell,linux,docker,git&perline=11" />
 </p>
 
----
+--- 
 
 ### `> whoami`
 
