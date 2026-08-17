@@ -18,8 +18,6 @@ Hi, I'm Darius, known online as Xen - a developer with 2 years of experience, wo
 
 Currently moving deeper into **Offensive Security / Security Research**, with a focus on how software, operating systems and security boundaries actually work.
 
-Looking for every opportunity to improve myself as a **developer**.
-
 ---
 
 ### `> stack`
