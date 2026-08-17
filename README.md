@@ -1,4 +1,4 @@
-# Xen K. · `@journaltraces` 
+# Xen K. · `@journaltraces`
 
 <p align="center">
 
