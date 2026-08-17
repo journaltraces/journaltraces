@@ -37,7 +37,7 @@ Concepts      → Networking / Processes / Permissions / Containers
 
 ### `> focus`
 
-```text id="gr5v5d"
+```text id="gr5v5d" 
 Security Research
 Linux / Unix Security
 Privilege Escalation
