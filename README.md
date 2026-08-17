@@ -10,8 +10,8 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,go,python,typescript,javascript,bash,powershell,linux,docker,git&perline=11" />
 </p>
 
---- 
- 
+---
+
 ### `> whoami`
 
 Hi, I'm Darius, known online as Xen - a developer with 2 years of experience, working across **systems, backend development and security tooling**.
@@ -22,7 +22,7 @@ Looking for every opportunity to improve myself as a **developer**.
 
 ---
 
-### `> stack` 
+### `> stack`
 
 ```text
 Languages     → C / C++ / Python / TypeScript / JavaScript
@@ -37,7 +37,7 @@ Concepts      → Networking / Processes / Permissions / Containers
 
 ### `> focus`
 
-```text id="gr5v5d" 
+```text id="gr5v5d"
 Security Research
 Linux / Unix Security
 Privilege Escalation
