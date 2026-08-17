@@ -11,7 +11,7 @@
 </p>
 
 --- 
-
+ 
 ### `> whoami`
 
 Romanian developer with 2 years of experience, working across **systems, backend development and security tooling**.
