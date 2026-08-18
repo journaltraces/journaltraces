@@ -1,6 +1,6 @@
 # Xen K. · `@journaltraces`
 
-<p align="center">
+<p align="center">     
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Security+%26+Systems;Offensive+Security;Backend+Development" />
 
