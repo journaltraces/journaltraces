@@ -25,7 +25,7 @@ Looking for every opportunity to improve myself as a **developer**.
 ### `> stack`
 
 ```text
-Languages     → C / C++ / Python / TypeScript / JavaScript
+Languages     → C / C++ / Python / TypeScript / JavaScript 
 Systems       → Linux / Unix / Bash / PowerShell
 Backend       → Node.js / REST APIs / WebSockets / Services
 Tooling       → Git / Docker / CLI / Automation
