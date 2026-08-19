@@ -2,7 +2,7 @@
 
 <p align="center">     
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Development;Systems+%26+Backend;Security+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Systems;Security+Engineering" />
 
 </p>
 
