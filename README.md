@@ -22,7 +22,7 @@ Looking for every opportunity to improve myself as a developer.
 
 ---
 
-### `> focus` 
+### `> focus`
 
 ```text id="gr5v5d"
 Security Research
