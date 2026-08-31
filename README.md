@@ -12,7 +12,7 @@
 
 ---
 
-### `> whoami`
+### `> whoami` 
 
 Hi, I'm Darius, known online as Xen - a developer with 2 years of experience, working across **systems, backend development and security tooling**.
 
