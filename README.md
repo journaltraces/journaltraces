@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Systems;Security+Engineering" />
 
-</p>
+</p> 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript,bash,powershell,linux,docker,git&perline=11" />
